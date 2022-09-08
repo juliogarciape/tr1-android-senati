@@ -1,4 +1,4 @@
-# Entregable Final - SENATI
+# Entregable - Aplicaciones Moviles :robot:
 
 ### Integrantes:
 
@@ -9,3 +9,9 @@
 - Jesus Lactayo
 - Jose Ortiz
 - Patricia Condori
+
+### Todo List:
+
+- [ ] Crear el home y los fragment
+- [ ] Mejorar la conexión SQLite
+- [ ] Rellenar el formato entregable TR1
